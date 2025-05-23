@@ -17,9 +17,9 @@ import { v2 as cloudinary } from "cloudinary";
 
 // Configuration
 cloudinary.config({
-  cloud_name: "dz0gwbtbn",
-  api_key: "251987462492658",
-  api_secret: "aNb7fPJ-Bi536Y_eyAt0pdNonIA", // Click 'View API Keys' above to copy your API secret
+  cloud_name: "dz0gwtbn",
+  api_key: "25198746292658",
+  api_secret: "aNb7fPJ-Bi53Y_eyAt0pdNonIA", // Click 'View API Keys' above to copy your API secret
 });
 
 app.use(express.json());
